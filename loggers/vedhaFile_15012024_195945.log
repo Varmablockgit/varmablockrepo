@@ -1,0 +1,8 @@
+2024-01-15 19:59:45,173  INFO [main] Utils:112 - [Utils] DynamicGraphHelper.createDynamicGraph() took 7 ms.
+2024-01-15 19:59:53,046  INFO [main] Utils:112 - [TestNG] Time taken by org.testng.reporters.SuiteHTMLReporter@20de05e5: 309 ms
+2024-01-15 19:59:53,252  INFO [main] Utils:112 - [TestNG] Time taken by org.testng.reporters.jq.Main@67f3d192: 202 ms
+2024-01-15 19:59:53,311  INFO [main] Utils:112 - [TestNG] Time taken by org.testng.reporters.FailedReporter@17c2d509: 59 ms
+2024-01-15 19:59:53,353  INFO [main] Utils:112 - [TestNG] Time taken by org.testng.reporters.XMLReporter@10fda3d0: 39 ms
+2024-01-15 19:59:53,372  INFO [main] Utils:112 - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@19f7222e: 19 ms
+2024-01-15 19:59:53,404  INFO [main] Utils:112 - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@6dbcf214: 32 ms
+2024-01-15 19:59:53,405  INFO [main] Utils:112 - [TestNG] Time taken by org.testng.internal.ExitCodeListener@496a31da: 0 ms

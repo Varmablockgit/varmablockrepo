@@ -1,0 +1,4 @@
+2024-01-15 13:36:28,833  INFO [main] SeleniumUtils:42 - Browser is launched
+2024-01-15 13:36:28,856  INFO [main] SeleniumUtils:46 - Verify Login
+2024-01-15 13:39:54,941  INFO [main] SeleniumUtils:42 - Browser is launched
+2024-01-15 13:39:54,961  INFO [main] SeleniumUtils:64 - reg started
